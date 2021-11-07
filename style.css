@@ -1,4 +1,3 @@
-
 * {
     padding: 0;
     margin: 0;
@@ -7,7 +6,7 @@
 /* banner */
 #banner {
     background: linear-gradient(rgba(0,0,0,0.5), #009688),
-    url("../img/tải\ xuống\ \(1\).jpg");
+    url("./toc/tải\ xuống.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
